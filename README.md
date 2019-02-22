@@ -14,7 +14,7 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 The program prints out in textual format the best individual found.
 
-To also create a nice image such as the one below install https://pypi.org/project/graphviz/
+To also create a nice image such as the ones below install https://pypi.org/project/graphviz/
 
 ![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/GPTree.png)
 
