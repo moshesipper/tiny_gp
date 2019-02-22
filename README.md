@@ -16,4 +16,4 @@ The program prints out in textual format the best individual found.
 
 To also create a nice image such as the one below install https://pypi.org/project/graphviz/
 
-![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/GPTree.png?raw=true)
+![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/GPTree.png)
