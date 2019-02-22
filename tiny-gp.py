@@ -52,7 +52,7 @@ class GPTree:
         if self.left:  self.left.print_tree (prefix + "   ")
         if self.right: self.right.print_tree(prefix + "   ")
 
-    def draw(self, dot, count): # note: dot & count are lists, so they're passed "by reference" 
+    def draw(self, dot, count): # dot & count are lists in order to pass "by reference" 
         node_name = str(count[0])
         dot[0].node(node_name, self.node_label())
         if self.left:
@@ -112,7 +112,7 @@ class GPTree:
         r = self.right.size() if self.right else 0
         return 1 + l + r
 
-    def build_subtree(self): # note: count is list, so it's passed "by reference"
+    def build_subtree(self): # count is list in order to pass "by reference"
         t = GPTree()
         t.data = self.data
         if self.left:  t.left  = self.left.build_subtree()
