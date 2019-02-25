@@ -15,9 +15,6 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 | Paremeters | POP_SIZE (population size), MIN_DEPTH (minimal initial random tree depth), MAX_DEPTH (maximal initial random tree depth), GENERATIONS (maximal number of generations), TOURNAMENT_SIZE (size of tournament for tournament selection), XO_RATE (crossover rate), PROB_MUTATION (per-node mutation probability) |
 | Termination | Maximal number of generations reached or an individual with fitness = 1.0 found |
 
-|  | |
-|-------------:|:-------------| 
-
 |  |  |
 |-------------:|:-------------| 
 | ![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/GPTree.png) | ![GPTree2](https://github.com/moshesipper/tiny-gp/blob/master/GPTree2.png) |
