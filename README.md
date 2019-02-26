@@ -4,7 +4,7 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 **tiny-gp.py** is a basic version, which produces textual output of the evolutionary progression and evolved trees.
 
-**tiny-gp-plus.py** shows displays dynamic graphs of error and mean tree size, has a bloat-control option, and produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/):
+**tiny-gp-plus.py** shows displays dynamic graphs of error and mean tree size, has a bloat-control option, and produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/).
 
 |  |  |
 |-------------:|:-------------| 
