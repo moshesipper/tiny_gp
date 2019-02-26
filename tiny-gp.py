@@ -1,5 +1,4 @@
 # tiny genetic programming by © moshe sipper, www.moshesipper.com
-# textual output
 from random import random, randint, seed
 from statistics import mean
 from copy import deepcopy
@@ -72,12 +71,6 @@ class GPTree:
             self.random_tree(grow = True, max_depth = 2)
         elif self.left: self.left.mutation()
         elif self.right: self.right.mutation() 
-        
-#    def depth(self):     
-#        if self.data in TERMINALS: return 0
-#        l = self.left.depth()  if self.left  else 0
-#        r = self.right.depth() if self.right else 0
-#        return 1 + max(l, r)
 
     def size(self): # tree size in nodes
         if self.data in TERMINALS: return 1
