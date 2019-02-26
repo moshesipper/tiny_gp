@@ -17,4 +17,4 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 |  |  |
 |-------------:|:-------------| 
-| ![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/GPTree.png) | ![GPTree2](https://github.com/moshesipper/tiny-gp/blob/master/GPTree2.png) |
+| ![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/Figures/GPTree.png) | ![GPTree2](https://github.com/moshesipper/tiny-gp/blob/master/Figures/GPTree2.png) |
