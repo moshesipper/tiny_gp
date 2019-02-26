@@ -2,7 +2,7 @@
 
 A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem. 
 
-**tiny-gp.py** is a basic version, which produces textual output of the evolutionary progression and evolved trees.
+**tiny-gp.py** is a basic (and fully functional) version, which produces textual output of the evolutionary progression and evolved trees.
 
 **tiny-gp-plus.py** displays dynamic graphs of error and mean tree size (size = number of nodes), has a bloat-control option, and produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/).
 
