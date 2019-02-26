@@ -2,9 +2,9 @@
 
 A minimalistic program implementing Koza-style (tree-based) genetic programming to solve a symbolic regression problem. 
 
-**tiny-gp-textual.py** produces textual output (evolutionary progression and evolved trees).
+**tiny-gp.py** is a basic version, which produces textual output of the evolutionary progression and evolved trees.
 
-**tiny-gp-graphic.py** produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/).
+**tiny-gp-plus.py** shows displays dynamic graphs of error and mean tree size, has a bloat-control option, and produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/):
 
 |  |  |
 |-------------:|:-------------| 
@@ -18,3 +18,6 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 |  |  |
 |-------------:|:-------------| 
 | ![GPTree](https://github.com/moshesipper/tiny-gp/blob/master/Figures/GPTree.png) | ![GPTree2](https://github.com/moshesipper/tiny-gp/blob/master/Figures/GPTree2.png) |
+
+
+![GP run](https://github.com/moshesipper/tiny-gp/blob/master/Figures/with_bloat_control.png)
