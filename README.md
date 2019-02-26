@@ -21,4 +21,4 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 | with bloat control  | without bloat control |
 |-------------|-------------| 
-|![GP run](https://github.com/moshesipper/tiny-gp/blob/master/Figures/with_bloat_control.png) | |
+|![GP run](https://github.com/moshesipper/tiny-gp/blob/master/Figures/with_bloat_control.png) | ![GP run](https://github.com/moshesipper/tiny-gp/blob/master/Figures/without_bloat_control.png) |
