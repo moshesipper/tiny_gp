@@ -1,4 +1,4 @@
-# tiny genetic programming plus, by © moshe sipper, www.moshesipper.com
+# tiny genetic programming plus, by Â© moshe sipper, www.moshesipper.com
 # graphic output, dynamic progress display, bloat-control option 
 # need to install https://pypi.org/project/graphviz/
 
