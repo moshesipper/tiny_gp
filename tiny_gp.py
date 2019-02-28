@@ -1,4 +1,4 @@
-# tiny genetic programming by © moshe sipper, www.moshesipper.com
+# tiny genetic programming by Â© moshe sipper, www.moshesipper.com
 from random import random, randint, seed
 from statistics import mean
 from copy import deepcopy
