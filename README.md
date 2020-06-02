@@ -8,7 +8,7 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 If you wish to cite this:
 ```
-@misc{Sipper2019tiny,
+@misc{Sipper2019tinyGP,
   author = {Sipper, M.},
   title = {Tiny Genetic Programming in Python},
   year = {2019},
