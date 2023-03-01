@@ -6,7 +6,7 @@ A minimalistic program implementing Koza-style (tree-based) genetic programming 
 
 **tiny-gp-plus.py** displays dynamic graphs of error and mean tree size (size = number of nodes), has a bloat-control option, and produces nicer, graphic output (you'll need to install https://pypi.org/project/graphviz/).
 
-I invite you to check out another project of mine, which allows you to run an evolutionary algorithm with just 3 lines of code [EC-KitY: Evolutionary Computation Tool Kit in Python](https://github.com/EC-KitY/EC-KitY).
+I invite you to check out another project of mine, which allows you to run an evolutionary algorithm with just 3 lines of code: [EC-KitY — Evolutionary Computation Tool Kit in Python](https://github.com/EC-KitY/EC-KitY).
 
 If you wish to cite this:
 ```
